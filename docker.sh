@@ -84,8 +84,8 @@ if [ "$COUNTRY" == 'CN' ]; then
   },
   "registry-mirrors": [
     "https://docker.1panel.live",
-    "https://dockerhub.icu",
-    "https://dockerhub.jobcher.com"
+    "https://registry.cyou",
+    "https://dockerproxy.net"
   ]
 }
 EOF
